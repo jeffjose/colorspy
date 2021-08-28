@@ -3,5 +3,6 @@
 </script>
 
 <main class="p-2">
+  <h1>Popup</h1>
   <Counter />
 </main>

@@ -5,6 +5,7 @@
 </script>
 
 <main>
+  <h2>Counter</h2>
   <p data-testid="counter-value" class="text-xl text-center">{count}</p>
   <div class="flex text-xl text-white">
     <button class="px-4 py-1 bg-red-500" on:click={decrement}>-</button>

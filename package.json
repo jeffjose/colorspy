@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "svelte-tailwind-extension-boilerplate",
+  "name": "colorspy",
   "version": "0.0.1",
-  "description": "A browser extension template built with Svelte and TailwindCSS",
+  "description": "Colorspy",
   "keywords": [
     "chrome-extension",
     "web-extension",
